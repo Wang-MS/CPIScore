@@ -17,7 +17,7 @@ import seaborn as sns
 from tqdm import tqdm
 import os
 os.chdir('/public/home/cadd1/liang/DTI/newmodel')
-
+### just a test
 lg = rdkit.RDLogger.logger() 
 lg.setLevel(rdkit.RDLogger.CRITICAL)
 
